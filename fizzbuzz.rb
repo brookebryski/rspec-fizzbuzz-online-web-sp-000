@@ -3,13 +3,13 @@
 
 def fizzbuzz(int)
 if int % 3 == 0
-  "fizz"
+  "Fizz"
 end
 end
 
 def fizzbuzz(int)
 if int % 5 == 0
-  "buzz"
+  "Buzz"
 end
 end
 
